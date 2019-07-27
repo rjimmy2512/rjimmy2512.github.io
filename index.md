@@ -12,10 +12,9 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 ●Fixed mindset: believing basic qualities, like intelligence or talent, are simply fixed traits. Believing that talent alone creates success—without effort.
 
 ●Growth mindset: believing that people’s most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
-
 #### So, What is your Mindset? I will choose A Growth Mindset! Let's move forward in our Growth Mindset Journey...
 
+# MARKDOW
+Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
-
-http://daringfireball.net/projects/markdown/
-
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.

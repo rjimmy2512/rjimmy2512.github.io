@@ -26,6 +26,7 @@ Note that some features of GitHub Flavored Markdown are only available in the de
 Here you can see basic syntax writing and formatting syntax for [GitHub Flavored Markdown.](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ## 2. Some Terminal commands
+![Image of Terminal](https://code.visualstudio.com/assets/docs/editor/integrated-terminal/integrated-terminal.png)
 - cd: change directory (cd .. moves you up a directory, ~ will take you to root)
 - ls: list all public files/folders (-a flag will show hidden files - aka "dotfiles")
 - pwd: print working directory (where am i?)

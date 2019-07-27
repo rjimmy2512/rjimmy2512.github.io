@@ -13,5 +13,9 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 ●Growth mindset: believing that people’s most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 
-#### So, What is your Mindset? I will choose A Growth Mindset!
+#### So, What is your Mindset? I will choose A Growth Mindset! Let's move forward in our Growth Mindset Journey...
+
+
+
+http://daringfireball.net/projects/markdown/
 

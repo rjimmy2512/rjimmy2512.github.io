@@ -26,13 +26,13 @@ Note that some features of GitHub Flavored Markdown are only available in the de
 Here you can see basic syntax writing and formatting syntax for [GitHub Flavored Markdown.](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ## 2. Some Terminal commands
-cd: change directory (cd .. moves you up a directory, ~ will take you to root)
-ls: list all public files/folders (-a flag will show hidden files - aka "dotfiles")
-pwd: print working directory (where am i?)
-touch: create a file
-mkdir: create a directory
-rm: remove a file (-r flag will remove a directory; rm -rf will remove a directory with fire - do not use fire )
-cat: show contents in a file
-file [path]: specifies the file type
+- cd: change directory (cd .. moves you up a directory, ~ will take you to root)
+- ls: list all public files/folders (-a flag will show hidden files - aka "dotfiles")
+- pwd: print working directory (where am i?)
+- touch: create a file
+- mkdir: create a directory
+- rm: remove a file (-r flag will remove a directory; rm -rf will remove a directory with fire - do not use fire )
+- cat: show contents in a file
+- file [path]: specifies the file type
 
 

@@ -38,6 +38,7 @@ Here you can see basic syntax writing and formatting syntax for [GitHub Flavored
 - rm: remove a file (-r flag will remove a directory; rm -rf will remove a directory with fire - do not use fire )
 - cat: show contents in a file
 - file [path]: specifies the file type
+Check on this [Cheat Sheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) to learn more.
 
 ## 3. Text Editors
 Essentially, a text editor is a program on you computer that allows you to create and edit a range of programming language files. AKA this is the place where you write your code!

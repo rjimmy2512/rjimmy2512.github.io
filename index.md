@@ -14,8 +14,8 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 ●Growth mindset: believing that people’s most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 #### So, What is your Mindset? I will choose A Growth Mindset! Let's move forward in our Growth Mindset Journey...
 
-# What I've learnt this week:
-# Markdown
+# What I've learnt last week:
+## 1. Markdown
 Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
@@ -25,4 +25,14 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 Here you can see basic syntax writing and formatting syntax for [GitHub Flavored Markdown.](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
-# Some Terminal commands
+## 2. Some Terminal commands
+cd: change directory (cd .. moves you up a directory, ~ will take you to root)
+ls: list all public files/folders (-a flag will show hidden files - aka "dotfiles")
+pwd: print working directory (where am i?)
+touch: create a file
+mkdir: create a directory
+rm: remove a file (-r flag will remove a directory; rm -rf will remove a directory with fire - do not use fire )
+cat: show contents in a file
+file [path]: specifies the file type
+
+

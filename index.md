@@ -39,4 +39,19 @@ Here you can see basic syntax writing and formatting syntax for [GitHub Flavored
 - cat: show contents in a file
 - file [path]: specifies the file type
 
+## 3. Text Editors
+Essentially, a text editor is a program on you computer that allows you to create and edit a range of programming language files. AKA this is the place where you write your code!
+Text editors handle “hand coding” many different languages, i.e.: HTML, CSS, JavaScript, PHP, Ruby, Python, and so forth.
+While choosing a text editor to use as a programmer, you have to consider following criterias:
+
+- Easy to use and navigate (similar to a good word processor)
+- Find and replace feature (so you can change a single word in the whole file with a few clicks)
+- Cut, Copy, Paste (again, similar to word processors)
+- Ability to handle UTF-8 encoded text (also unlike a word processor)
+- Syntax highlighting (unlike your word processor, this makes it easier to read code and pick up any errors)
+- Customizable appearance (such as modifying font size, color schemes, etc., of your editor which optimizes your work zone)
+- Extensibility – (provide some plugin mechanism, or is scriptable, so a programmer can customize the editor with additional features
+
+Learn more about [choosing Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636) here. Hope it will help!
+
 

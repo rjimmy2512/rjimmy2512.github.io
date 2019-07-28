@@ -55,4 +55,3 @@ While choosing a text editor to use as a programmer, you have to consider follow
 
 Learn more about [choosing Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636) here. Hope it will help!
 
-
